@@ -1,11 +1,11 @@
 # 26-06 /GIT CLI and GIT INIT REMOTE
 
 - git pwd -check your current repository
-- git mkdir folder /create a folder
-- git touch README.md /create always a readme
-- git init /turn the folder into a git repository 
-- git remote add origin <ssh link> /the SSH repository address, e.g., git@github.com:<your-github-name>/web-challenges.git
-- git remote -v /Check if the remote repository was successfully linked with the command
+- git mkdir folder create a folder
+- git touch README.md create always a readme
+- git init turn the folder into a git repository 
+- git remote add origin <ssh link> the SSH repository address, e.g., git@github.com:<your-github-name>/web-challenges.git
+- git remote -v Check if the remote repository was successfully linked with the command
 - A “fetch” and a “push” address should be printed to the terminal.
 - do NOT nest git repositories inside each other
 
